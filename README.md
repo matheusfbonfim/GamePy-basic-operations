@@ -1,7 +1,5 @@
-# GamePy-basic-operations
- 
 <h1 align="center">
-  <img alt="automato" src=".github/" width="25%"/>
+  <img alt="automato" src=".github/python.png" width="20%"/>
 </h1>
 
 <h2 align="center">
@@ -13,10 +11,10 @@
 ## 💻 Sobre a aplicação
 - Aplicação desenvolvida em Python com intuito de interagir com o usuário de forma a responder alguns cálculos de operações básicas, conforme a dificuldade determinada.
 - A aplicação ao ser inicializada solicita ao usuário o nível de dificuldade do jogo [1, 2, 3 ou 4]
-- Após isso, gera e apresenta de forma aleatória um cálculo para que possa informar o resultado
-- Limita-se as operações de somar, diminuir e multiplicar
-- Se o usuário acertar a resposta, somará 1 ponto ao seu score
-- Acertando ou errando, o usuário poderá ou não continuar o jogo
+- Após isso, gera e apresenta de forma aleatória um cálculo para que possa informar o resultado.
+- Limita-se as operações de somar, diminuir e multiplicar.
+- Se o usuário acertar a resposta, somará 1 ponto ao seu score.
+- Acertando ou errando, o usuário poderá ou não continuar o jogo.
 
 ## 📚 Partes do projeto
 
