@@ -11,7 +11,7 @@
 ## 💻 Sobre a aplicação
 - Aplicação desenvolvida em Python com intuito de interagir com o usuário de forma a responder cálculos de operações básicas, conforme a dificuldade determinada.
 
-<p><strong>Procedimentos</strong></p>
+<p><strong>Passo a passo</strong></p>
 
 - A aplicação ao ser inicializada solicita ao usuário o nível de dificuldade do jogo [1, 2, 3 ou 4]
 - Após isso, gera e apresenta de forma aleatória um cálculo para que possa informar o resultado.
