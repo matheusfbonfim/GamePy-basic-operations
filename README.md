@@ -24,11 +24,9 @@
  <p><strong>Procedimentos</strong></p>
 
 1. Faça um clone desse repositório;
-2. Verifica a instalação do python no sistema operacional
-2. Entre na pasta rodando `cd bootcamp-gostack11-exercicios/fase-02/primeiro-projeto-node`;
-3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn dev:server` para iniciar o servidor;
-
+2. Verifique a instalação do python3 no sistema operacional
+3. Entre na pasta rodando `cd src`;
+4. Rode `python3 game.py` para iniciar o jogo.
 
 ## :memo: License
 
