@@ -9,7 +9,7 @@
 <!-- Tópicos -->
 
 ## 💻 Sobre a aplicação
-- Aplicação desenvolvida em Python com intuito de interagir com o usuário de forma a responder cálculos de operações básicas, conforme a dificuldade determinada.
+- Aplicação desenvolvida em Python com intuito de interagir com o usuário de forma a propor um jogo de cálculos de operações básicas, conforme a dificuldade determinada.
 
 <p><strong>Passo a passo</strong></p>
 
